@@ -1,2 +1,2 @@
 # BasicDapperFramework
-Dapper kullanımı için generic repository yapısında basit  framework tasarımı.
+Basic framework for Dapper with CRUD operations - Dapper CRUD operasyonları için temel framework
